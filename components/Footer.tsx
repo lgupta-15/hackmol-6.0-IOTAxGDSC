@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
           </text>
         </svg>
         <div className="relative w-full flex justify-center items-center mt-[-40px]">
-          <img src="/icons/center.png" alt="Footer Centerpiece" className="w-150 h-60" />
+          <img src="/icons/center.png" alt="Footer Centerpiece" className="w-151 h-60" />
         </div>
       </div>
     </footer>
